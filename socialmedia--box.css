@@ -1,0 +1,27 @@
+#socialmedia--box {
+    top: 65%;
+    right: 0;
+    position: fixed;
+    background: rgba(255, 102, 0, 0.315) !important;
+    width: 69px;
+    height: 85px;
+    border-left-width: 5px;
+    border-left-color: orangered;
+    border-left-style: solid;
+    z-index: 100000;
+    -webkit-box-align: center;
+    -ms-flex-align: center;
+    align-items: center;
+    display: -webkit-box;
+    display: -ms-flexbox;
+    display: flex;
+    -webkit-box-orient: vertical;
+    -webkit-box-direction: normal;
+    -ms-flex-direction: column;
+    flex-direction: column;
+    -webkit-box-pack: center;
+    -ms-flex-pack: center;
+    justify-content: center;
+    -webkit-box-shadow: 0px 0px 12px 5px rgba(0, 0, 0, 0.12);
+    box-shadow: 0px 0px 12px 5px rgba(0, 0, 0, 0.12);
+}
